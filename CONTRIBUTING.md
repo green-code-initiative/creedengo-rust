@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to creedengo-rust! This document provides guidelines for adding new dylint rules and contributing to the project.
 
-Please also read the common [CONTRIBUTING.md](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/CONTRIBUTING.md) in `ecoCode-common` repository for general ecoCode contribution guidelines.
+Please also read the common [CONTRIBUTING.md](https://github.com/green-code-initiative/creedengo-common/blob/main/doc/CONTRIBUTING.md) in `creedengo-common` repository for general Creedengo contribution guidelines.
 
 ## Table of Contents
 
@@ -259,8 +259,8 @@ Add your rule to the rules table in `readme.md`:
 - [HIR Documentation](https://rustc-dev-guide.rust-lang.org/hir.html)
 - [Writing Clippy Lints](https://github.com/rust-lang/rust-clippy/blob/master/book/src/development/adding_lints.md)
 
-### ecoCode Resources
-- [ecoCode Rules Specifications](https://github.com/green-code-initiative/creedengo-rules-specifications)
+### Creedengo Resources
+- [Creedengo Rules Specifications](https://github.com/green-code-initiative/creedengo-rules-specifications)
 - [Green Code Initiative](https://www.green-code-initiative.org/)
 
 ## Getting Help
@@ -270,6 +270,6 @@ If you need help:
 1. Check the [dylint documentation](https://github.com/trailofbits/dylint)
 2. Look at existing rules in this repository for examples
 3. Open an issue in this repository for project-specific questions
-4. Join the ecoCode community discussions
+4. Join the Creedengo community discussions
 
 Thank you for contributing to a more sustainable software ecosystem! 🌱

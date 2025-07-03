@@ -188,5 +188,5 @@ rustup override set nightly
 ## Resources
 
 - [Dylint GitHub Repository](https://github.com/trailofbits/dylint)
-- [ecoCode Project](https://github.com/green-code-initiative/ecoCode)
+- [Creedengo Project](https://github.com/green-code-initiative/creedengo-rules-specifications)
 - [Green Code Initiative](https://www.green-code-initiative.org/)
