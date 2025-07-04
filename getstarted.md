@@ -13,7 +13,7 @@ Before you start, make sure you have:
 
 ### 0. Install RUST and Cargo
 
-Please check iunstallation instructions for [Rust](https://www.rust-lang.org/tools/install) if you haven't installed Rust yet.
+Please check installation instructions for [Rust](https://www.rust-lang.org/tools/install) if you haven't installed Rust yet.
 
 ### 1. Install Required Tools
 
@@ -41,7 +41,7 @@ Navigate to your Rust project directory and run:
 ```bash
 cargo dylint --path path/to/creedengo-rust-project
 
-# example :
+# example (Windows PowerShell/Command Prompt) :
 cd .\creedengo-rust-test
 cargo dylint --path ../creedengo-rust
 ```
@@ -243,7 +243,7 @@ rustup override set nightly
 - [Green Code Initiative](https://www.green-code-initiative.org/)
 
 ### TODO DDC - refactoring this repository
-- the repository inside green-code-inititiative organization in github is called "creedengo-rust"
+- the repository inside green-code-initiative organization in github is called "creedengo-rust"
 - but there are 3 current sub-directories:
   - creedengo-rust => this one contains the rule implementation, and must be renamed with another name
   - creedengo-rust-test => this one is a test project to test the rules in real environment
